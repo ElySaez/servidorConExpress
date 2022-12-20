@@ -1,0 +1,38 @@
+[
+	{
+		"title": "manzana",
+		"description": "fruta",
+		"price": 56,
+		"thumbnail": "Sin imagen",
+		"code": 88,
+		"stock": 40,
+		"id": 1
+	},
+	{
+		"title": "Agua",
+		"description": "bebida",
+		"price": 30,
+		"thumbnail": "Sin imagen",
+		"code": 33,
+		"stock": 25,
+		"id": 2
+	},
+	{
+		"title": "pera",
+		"description": "fruta",
+		"price": 48,
+		"thumbnail": "Sin imagen",
+		"code": 59,
+		"stock": 60,
+		"id": 3
+	},
+	{
+		"title": "Jabón",
+		"description": "Limpieza",
+		"price": 150,
+		"thumbnail": "Sin imagen",
+		"code": 11,
+		"stock": 30,
+		"id": 4
+	}
+]
